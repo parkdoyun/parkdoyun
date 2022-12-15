@@ -2,7 +2,7 @@
 
 
   <h3> 🐱‍💻 BOJ 🏆✨</h3>
-
+  
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehdqkd31)](https://solved.ac/ehdqkd31/)
 
 <h3>🐱‍🐉 Skill 👀👻💙</h3> 
