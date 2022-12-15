@@ -1,10 +1,14 @@
-# 🖤👾 parkdoyun 🤖🤍 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fparkdoyun%2F&count_bg=%23B86AFF&title_bg=%23888888&icon=&icon_color=%23E7E7E7&title=today&edge_flat=false)](https://hits.seeyoufarm.com)
-
-
-  <h3> 🐱‍💻 BOJ 🏆✨</h3>
+<div align="center">
   
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehdqkd31)](https://solved.ac/ehdqkd31/)
+  ![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=7,8,2,7,30&height=90&section=header&text=🖤👾%20PARKDOYUN%20🤖🤍%20&render&fontSize=30&animation=twinkling&fontColor=6A5ACD&reversal=true&stroke=40E0D0&strokeWidth=1.5)
 
+</p>
+<div align="right">
+  
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fparkdoyun%2F&count_bg=%23B86AFF&title_bg=%23888888&icon=&icon_color=%23E7E7E7&title=today&edge_flat=false)](https://hits.seeyoufarm.com)
+  
+</div>
+<div align="center">
 <h3>🐱‍🐉 Skill 👀👻💙</h3> 
 <p>
   <img src="https://img.shields.io/badge/C-E4405F?style=plastic&logo=C&logoColor=A8B9CC"/>
@@ -27,5 +31,22 @@
   <img src="https://img.shields.io/badge/Arduino-skyblue?style=plastic&logo=Arduino&logoColor=00979D"/>
   <img src="https://img.shields.io/badge/Raspberry Pi-00B265?style=plastic&logo=Raspberry Pi&logoColor=A22846"/>
   </p>
+</div>
 
+<div align="center">
+  <h3> 🐱‍💻 BOJ 🏆✨</h3>
+  </div>
+  
+<div style="flex-direction:row;">
+  <div>
+  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehdqkd31)](https://solved.ac/ehdqkd31/)
+  
+ </div>
+ <div>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkdoyun&theme=jolly&exclude_repo=google_colab&layout=compact)](https://github.com/parkdoyun/github-readme-stats)
+  
+</div>
+</div>
 
