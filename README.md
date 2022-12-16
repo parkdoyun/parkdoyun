@@ -19,7 +19,7 @@
 - 🐱‍💻Dept. of Computer Enginnering<br>
 - 👨‍🎓 Inha University<br>
 - 👩‍💻 SSAFY 8th<br>
-- <a href = "ehdqkdfjq97@gmail.com"> <img src="https://img.shields.io/badge/Contact-white?style=plastic&logo=Gmail&logoColor=EA4335"/></a>
+- <a href="mailto:ehdqkdfjq97@gmail.com"> <img src="https://img.shields.io/badge/Contact-white?style=plastic&logo=Gmail&logoColor=EA4335"/></a>
   <br>
   <br>
 </div>
