@@ -1,18 +1,14 @@
 <div align="center">
   
   ![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=10,8,2,7,30&height=80&section=header&text=🖤👾%20PARKDOYUN%20🤖🤍%20&render&fontSize=30&animation=twinkling&fontColor=EE82EE&reversal=true&stroke=40E0D0&strokeWidth=1.5)
-
-  
-  <div align="right">
-  
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fparkdoyun%2F&count_bg=%23B86AFF&title_bg=%23888888&icon=&icon_color=%23E7E7E7&title=today&edge_flat=false)](https://hits.seeyoufarm.com)
-  
-</div>
 </div>
 
-<div>
+ <div>
+  
 <h3 align="right"> 🐱‍💻 BOJ 🏆✨</h3>
-   <img align="right" height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ehdqkd31">
+   <img align="right" height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ehdqkd31">  
+   
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fparkdoyun%2F&count_bg=%23B86AFF&title_bg=%23888888&icon=&icon_color=%23E7E7E7&title=today&edge_flat=false)](https://hits.seeyoufarm.com)
   
  ### 🐱‍🚀 ME 💻✏💗 
   
