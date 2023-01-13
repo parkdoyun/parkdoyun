@@ -22,7 +22,7 @@
 
 ***
 
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkdoyun&theme=jolly&exclude_repo=google_colab&layout=compact">
+  <!--<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkdoyun&theme=jolly&exclude_repo=google_colab&layout=compact">-->
 
 ### 🐱‍🐉 Skill 👀👻💙
 
